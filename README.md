@@ -1,2 +1,2 @@
 # invie-github
-Repositorio de practica
+Repositorio de practica by platzi
